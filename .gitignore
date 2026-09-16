@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.db
+*.sqlite*
+*.log
+local_data/
+outputs/
+work/
+.DS_Store
+Thumbs.db
